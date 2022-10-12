@@ -1,0 +1,18 @@
+# package directories
+node_modules
+jspm_packages
+.env
+build
+.DS_Store
+.idea
+
+
+yarn.lock
+.vscode
+
+insert.sql
+errores-vtex
+*.disable.ts
+*.disable
+doc
+coverage
